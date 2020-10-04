@@ -41,3 +41,5 @@ function miid(x,y ,width,height,scale, text, r,g,b,a, outline)
     AddTextComponentString(text)
     DrawText(x - width/2, y - height/2 + 0.005)
 end
+
+--Made by Milo'
